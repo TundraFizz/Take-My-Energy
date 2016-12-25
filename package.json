@@ -1,0 +1,21 @@
+{
+  "name": "take-my-energy",
+  "version": "1.0.0",
+  "description": "Cloud9 Take my energy!",
+  "main": "server.js",
+  "author": "Tundra Fizz",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.9.2",
+    "express": "^4.14.0",
+    "ejs": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TundraFizz/Take-My-Energy"
+  }
+}
