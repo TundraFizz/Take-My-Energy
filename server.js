@@ -9,4 +9,4 @@ app.set("views", "./views");                      // Define the views directory
 require("./node/routes.js")(app);                 // Include web routes third
 require("./node/routes-404.js")(app);             // Include 404 page last
 
-app.listen(9001);                                 // Start the server
+app.listen(80);                                   // Start the server
